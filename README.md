@@ -8,6 +8,6 @@ takes RGB image and converts it to grayscale.
 You will need to demonstrate that function is working
 as expected in Jupyter Notebook file.
 
-Deadline for submission is 21th December till midnight.
+Deadline for submission is 15th December till midnight.
 You will need to fork this project in order to get your
 homework reviewed.
